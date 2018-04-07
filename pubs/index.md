@@ -5,6 +5,14 @@ title: Publications
 # Publications
 
 
+
+- __Bounded Synthesis for Streett, Rabin, and CTLstar__\\
+  CAV'17, with Roderick Bloem\\
+  &#8226;[pdf](slides/bounded_ctlstar.pdf)
+  &#8226;[slides](slides/bounded_ctlstar.pptx)
+  &#8226;[bibtex](bibtex/bounded_ctlstar.bib)\\
+  Note: the conference version contains errors in proofs, the fixed version is in my thesis.
+
 - __Decidability in Parameterized Verification__\\
   SIGACT News'16, with Roderick Bloem, Swen Jacobs, Igor Konnov, Sasha Rubin, Helmut Veith, Josef Widder\\
   &#8226;[pdf](https://www.react.uni-saarland.de/publications/BJKKRVW16.pdf)
