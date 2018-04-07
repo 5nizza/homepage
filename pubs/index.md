@@ -4,11 +4,32 @@ title: Publications
 
 # Publications
 
+- __Reactive synthesis: branching logic parameter*i*zed systems__\\
+  PhD thesis'18\\
+  &#8226;[pdf](https://github.com/5nizza/phd-thesis/raw/master/thesis/main.pdf)
+  &#8226;[slides](slides/phd_thesis.pdf)
+  &#8226;[bibtex](bibtex/open_sea.bib)
 
+- __OpenSEA: Semi-Formal Methods for Soft Error Analysis__\\
+  arxiv'17, with P. Klampfl, R. Koenighofer, R. Bloem, A. Abu-Yonis, S. Moran\\
+  &#8226;[pdf](https://arxiv.org/pdf/1712.04291.pdf)
+  &#8226;[tool](https://extgit.iaik.tugraz.at/scos/soft-error-analysis/)
+  &#8226;[bibtex](bibtex/open_sea.bib)\\
+  Note: the paper was rejected from FMCAD'17 with strange reviews (it is not very well written, I must admit),
+  and we did not have energy to re-submit it. Patrick Klampfl defended his MS thesis on it.
+
+- __CTL* Synthesis via LTL Synthesis__\\
+  SYNT'17, with Roderick Bloem and Sven Schewe\\
+  &#8226;[pdf](https://arxiv.org/pdf/1711.10636.pdf)
+  &#8226;[slides](slides/ctl_via_ltl.pdf)
+  &#8226;[poster](posters/ctl_via_ltl_poster.pdf)
+  &#8226;[bibtex](bibtex/ctl_via_ltl.bib)\\
+  Note: the workshop version has a buggy note at the bottom of page 13.
+  The correct version is in my thesis.
 
 - __Bounded Synthesis for Streett, Rabin, and CTLstar__\\
   CAV'17, with Roderick Bloem\\
-  &#8226;[pdf](slides/bounded_ctlstar.pdf)
+  &#8226;[pdf](pdf/bounded_ctlstar.pdf)
   &#8226;[slides](slides/bounded_ctlstar.pptx)
   &#8226;[bibtex](bibtex/bounded_ctlstar.bib)\\
   Note: the conference version contains errors in proofs, the fixed version is in my thesis.
