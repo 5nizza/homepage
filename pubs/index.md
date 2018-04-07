@@ -7,7 +7,7 @@ title: Publications
 - __Reactive synthesis: branching logic \& parameter*i*zed systems__\\
   PhD thesis'18\\
   &#8226;[pdf](https://github.com/5nizza/phd-thesis/raw/master/thesis/main.pdf)
-  &#8226;[slides](slides/phd_thesis.pdf)
+  &#8226;[slides](slides/phd_thesis.pptx)
   &#8226;[bibtex](bibtex/open_sea.bib)
 
 - __OpenSEA: Semi-Formal Methods for Soft Error Analysis__\\
