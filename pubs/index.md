@@ -6,8 +6,8 @@ title: Publications
 
 
 
-- __PARTY: Parameterized Synthesis of Token Rings__\
-  CAV'13, with Swen Jacobs and Roderick Bloem\
+- __PARTY: Parameterized Synthesis of Token Rings__\\
+  CAV'13, with Swen Jacobs and Roderick Bloem\\
   &#8226;[pdf](pdf/PARTY.pdf)
   &#8226;[slides](slides/PARTY.pptx)
   &#8226;[poster](posters/PARTY_poster.pdf)
