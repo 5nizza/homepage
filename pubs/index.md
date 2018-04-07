@@ -5,6 +5,39 @@ title: Publications
 # Publications
 
 
+- __Decidability in Parameterized Verification__\\
+  SIGACT News'16, with Roderick Bloem, Swen Jacobs, Igor Konnov, Sasha Rubin, Helmut Veith, Josef Widder\\
+  &#8226;[pdf](https://www.react.uni-saarland.de/publications/BJKKRVW16.pdf)
+  &#8226;[bibtex](bibtex/pmcp_decidability_journal.bib)\\
+  Note: this is the journal version of our book with the same name.
+
+- __Tight Cutoffs for Guarded Protocols with Fairness__\\
+  VMCAI'16, with Simon Ausserlechner and Swen Jacobs\\
+  &#8226;[pdf](https://arxiv.org/pdf/1505.03273.pdf)
+  &#8226;[bibtex](bibtex/guarded.bib)\\
+  Note: see also a better formated version in my thesis.
+
+- __Decidability of Parameterized Verification__\\
+  book, with Roderick Bloem, Swen Jacobs, Igor Konnov, Sasha Rubin, Helmut Veith, Josef Widder\\
+  &#8226;[link](https://www.morganclaypool.com/doi/abs/10.2200/S00658ED1V01Y201508DCT013)
+  &#8226;[bibtex](bibtex/decidability_pmcp.bib)
+
+- __Specification Format for Reactive Synthesis Problems__\\
+  SYNT'15\\
+  &#8226;[pdf](https://arxiv.org/pdf/1602.01175.pdf)
+  &#8226;[slides](slides/spec_format.pptx)
+  &#8226;[bibtex](bibtex/spec_format.bib)
+
+- __Parameterized Model Checking of Token-Passing Systems__\\
+  VMCAI'14, with Benjamin Aminof, Swen Jacobs, Sasha Rubin\\
+  &#8226;[pdf](https://arxiv.org/pdf/1311.4425.pdf)
+  &#8226;[bibtex](bibtex/pmcp_token_passing.bib)
+
+- __Parameterized Synthesis Case Study: AMBA AHB__\\
+  SYNT'14, with Swen Jacobs and Roderick Bloem\\
+  &#8226;[pdf](https://arxiv.org/pdf/1406.7608.pdf)
+  &#8226;[slides](slides/par_amba.pptx)
+  &#8226;[bibtex](bibtex/par_amba.bib)
 
 - __PARTY: Parameterized Synthesis of Token Rings__\\
   CAV'13, with Swen Jacobs and Roderick Bloem\\
