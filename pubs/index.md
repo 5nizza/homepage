@@ -15,7 +15,7 @@ title: Publications
   &#8226;[pdf](https://arxiv.org/pdf/1712.04291.pdf)
   &#8226;[tool](https://extgit.iaik.tugraz.at/scos/soft-error-analysis/)
   &#8226;[bibtex](bibtex/open_sea.bib)\\
-  Note: the paper was rejected from FMCAD'17 with strange reviews (it is not very well written, I must admit),
+  Note: the paper was rejected from FMCAD'17 (it is not very well written, I must admit),
   and we did not have energy to re-submit it. Patrick Klampfl defended his MS thesis on it.
 
 - __CTL* Synthesis via LTL Synthesis__\\
