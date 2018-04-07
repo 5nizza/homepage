@@ -4,7 +4,7 @@ title: Publications
 
 # Publications
 
-- __Reactive synthesis: branching logic \& parameter*i*zed systems__\\
+- __Reactive synthesis: branching logic & parameter*i*zed systems__\\
   PhD thesis'18\\
   &#8226;[pdf](https://github.com/5nizza/phd-thesis/raw/master/thesis/main.pdf)
   &#8226;[slides](slides/phd_thesis.pptx)
