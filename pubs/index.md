@@ -27,7 +27,7 @@ title: Publications
   Note: the workshop version has a buggy note at the bottom of page 13.
   The correct version is in my thesis.
 
-- __Bounded Synthesis for Streett, Rabin, and CTLstar__\\
+- __Bounded Synthesis for Streett, Rabin, and CTL*__\\
   CAV'17, with Roderick Bloem\\
   &#8226;[pdf](pdf/bounded_ctlstar.pdf)
   &#8226;[slides](slides/bounded_ctlstar.pptx)
