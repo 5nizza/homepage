@@ -31,7 +31,8 @@ title: Publications
   CAV'17, with Roderick Bloem\\
   &#8226;[pdf](pdf/bounded_ctlstar.pdf)
   &#8226;[slides](slides/bounded_ctlstar.pptx)
-  &#8226;[bibtex](bibtex/bounded_ctlstar.bib)\\
+  &#8226;[bibtex](bibtex/bounded_ctlstar.bib)
+  &#8226;[video](https://www.youtube.com/watch?v=YIqHkWuii-M)\\
   Note: the conference version contains errors in proofs, the fixed version is in my thesis.
 
 - __Decidability in Parameterized Verification__\\
@@ -66,7 +67,9 @@ title: Publications
   SYNT'14, with Swen Jacobs and Roderick Bloem\\
   &#8226;[pdf](https://arxiv.org/pdf/1406.7608.pdf)
   &#8226;[slides](slides/par_amba.pptx)
-  &#8226;[bibtex](bibtex/par_amba.bib)
+  &#8226;[bibtex](bibtex/par_amba.bib)\\
+  Note: the version contains bugs in the theory part,
+  please read the version in my thesis.
 
 - __PARTY: Parameterized Synthesis of Token Rings__\\
   CAV'13, with Swen Jacobs and Roderick Bloem\\
