@@ -3,7 +3,6 @@ https://5nizza.github.io/homepage/index.html
 https://5nizza.github.io/homepage/pubs/
 https://5nizza.github.io/homepage/pubs/index.html
 https://5nizza.github.io/homepage/pubs/pdf/synthesis_of_register_transducers.pdf
-https://github.com/5nizza/phd-thesis/raw/master/thesis/main.pdf
 https://5nizza.github.io/homepage/pubs/slides/phd_thesis.pptx
 https://5nizza.github.io/homepage/pubs/pdf/bounded_ctlstar.pdf
 https://5nizza.github.io/homepage/pubs/slides/bounded_ctlstar.pptx
