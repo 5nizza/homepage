@@ -6,8 +6,7 @@ title: Publications
 
 - __Bounded Synthesis of Register Transducers__\\
   ATVA'18, with B. Maderbacher and R. Bloem\\
-  &#8226;[pdf](https://arxiv.org/pdf/1809.05017.pdf)\\
-  Note: to appear at ATVA'18.
+  &#8226;[pdf](https://arxiv.org/pdf/1809.05017.pdf)
 
 - __Reactive synthesis: branching logic & parameter*i*zed systems__\\
   PhD thesis'18\\
