@@ -6,7 +6,7 @@ title: Publications
 
 - __Bounded Synthesis of Register Transducers__\\
   ATVA'18, with B. Maderbacher and R. Bloem\\
-  &#8226;[pdf](pdf/synthesis_of_register_transducers.pdf)
+  &#8226;[pdf](https://arxiv.org/pdf/1809.05017.pdf)\\
   Note: to appear at ATVA'18.
 
 - __Reactive synthesis: branching logic & parameter*i*zed systems__\\
@@ -21,7 +21,8 @@ title: Publications
   &#8226;[tool](https://extgit.iaik.tugraz.at/scos/soft-error-analysis/)
   &#8226;[bibtex](bibtex/open_sea.bib)\\
   Note: the paper was rejected from FMCAD'17 (it is not very well written, I must admit),
-  and we did not have energy to re-submit it. Patrick Klampfl defended his MS thesis on it.
+  and we did not have energy to re-submit it.
+  Patrick Klampfl defended his [MS thesis](https://extgit.iaik.tugraz.at/scos/soft-error-analysis/blob/master/doc/thesis/2016-12-13_SEA.pdf) on this topic.
 
 - __CTL* Synthesis via LTL Synthesis__\\
   SYNT'17, with Roderick Bloem and Sven Schewe\\
