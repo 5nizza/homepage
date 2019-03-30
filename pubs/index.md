@@ -32,8 +32,7 @@ title: Publications
   &#8226;[slides](slides/ctl_via_ltl.pdf)
   &#8226;[poster](posters/ctl_via_ltl_poster.pdf)
   &#8226;[bibtex](bibtex/ctl_via_ltl.bib)\\
-  Note: the workshop version has a buggy note at the bottom of page 13.
-  The correct version is in my thesis.
+  Note: this workshop version has an incorrect note on page 13 right before theorem 1.
 
 - __Bounded Synthesis for Streett, Rabin, and CTL*__\\
   CAV'17, with Roderick Bloem\\
