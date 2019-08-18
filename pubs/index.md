@@ -4,6 +4,13 @@ title: Publications
 
 # Publications
 
+- __Register-Bounded Synthesis__\\
+  CONCUR'19, with O. Kupferman\\
+  &#8226;[pdf](https://www.cs.huji.ac.il/~ornak/publications/concur19.pdf)
+  <!--&#8226;[slides](slides/bounded_synthesis_of_register_transducers.pptx)
+  &#8226;[bibtex](bibtex/bounded_synthesis_of_register_transducers.bib)
+  -->
+
 - __Bounded Synthesis of Register Transducers__\\
   ATVA'18, with B. Maderbacher and R. Bloem\\
   &#8226;[pdf](https://arxiv.org/pdf/1809.05017.pdf)
