@@ -8,7 +8,7 @@ title: Publications
   CONCUR'19, with O. Kupferman\\
   &#8226;[pdf](https://www.cs.huji.ac.il/~ornak/publications/concur19.pdf)
   &#8226;[slides](slides/concur2019-presentation.pdf)
-  &#8226;[bibtex](bibtex/concur2019.bib)
+  &#8226;[bibtex](bibtex/concur19.bib)
 
 - __Bounded Synthesis of Register Transducers__\\
   ATVA'18, with B. Maderbacher and R. Bloem\\
