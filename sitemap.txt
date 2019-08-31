@@ -8,4 +8,6 @@ https://5nizza.github.io/homepage/pubs/pdf/bounded_ctlstar.pdf
 https://5nizza.github.io/homepage/pubs/slides/bounded_ctlstar.pptx
 https://5nizza.github.io/homepage/pubs/pdf/PARTY.pdf
 https://5nizza.github.io/homepage/pubs/slides/PARTY.pptx
+https://5nizza.github.io/homepage/pubs/slides/concur2019-presentation.pdf
+https://5nizza.github.io/homepage/pubs/slides/bounded_synthesis_of_register_transducers.pdf
 https://5nizza.github.io/homepage/pubs/posters/PARTY_poster.pdf
