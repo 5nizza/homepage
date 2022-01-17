@@ -4,6 +4,12 @@ title: Publications
 
 # Publications
 
+- __Church Synthesis on Register Automata over Linearly Ordered Data Domains__\\
+  STACS'21, with L.Exhibard and E.Filiot\\
+  &#8226;[pdf](https://arxiv.org/pdf/2004.12141)
+  &#8226;[video](https://www.youtube.com/watch?v=oJvEm1wPiWA)
+  &#8226;[bibtex](bibtex/stacs21.bib)
+
 - __Register-Bounded Synthesis__\\
   CONCUR'19, with O. Kupferman\\
   &#8226;[pdf](https://www.cs.huji.ac.il/~ornak/publications/concur19.pdf)
