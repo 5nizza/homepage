@@ -5,7 +5,7 @@ title: Publications
 # Publications
 
 - __Church Synthesis on Register Automata over Linearly Ordered Data Domains__\\
-  STACS'21, with L.Exhibard and E.Filiot\\
+  STACS'21, with L.Exibard and E.Filiot\\
   &#8226;[pdf](https://arxiv.org/pdf/2004.12141)
   &#8226;[video](https://www.youtube.com/watch?v=oJvEm1wPiWA)
   &#8226;[bibtex](bibtex/stacs21.bib)
