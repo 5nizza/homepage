@@ -4,6 +4,13 @@ title: Publications
 
 # Publications
 
+
+- __A Generic Solution to Register-Bounded Synthesis with Application to Discrete Orders__\\
+  ICALP'22, with L.Exibard and E.Filiot\\
+  &#8226;[pdf](https://arxiv.org/pdf/2105.09978)
+  &#8226;[slides](slides/generic_solution_reg_bounded_synthesis.pdf)
+  &#8226;[bibtex](bibtex/icalp22.bib)
+
 - __Church Synthesis on Register Automata over Linearly Ordered Data Domains__\\
   STACS'21, with L.Exibard and E.Filiot\\
   &#8226;[pdf](https://arxiv.org/pdf/2004.12141)
