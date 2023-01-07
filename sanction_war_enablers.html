@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Sanction War-Enablers</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="" />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Link to the Responsive Columns CSS -->
+    <link rel="stylesheet" type="text/css" href="css/r-c-min.css" />
+
+    <!-- Link to your general styles -->
+    <link rel="stylesheet" type="text/css" href="css/column-styles.css" />
+
+    <!--
+    See this article for more details on linking to CSS:
+    https://matthewjamestaylor.com/add-css-to-html
+    -->
+</head>
+<body>
+
+
+<!--
+<r-c>
+    <c1-1>
+        <p> Russia</p>
+        <h1></h1>
+    </c1-1>
+</r-c>
+-->
+
+<!-- Start layout -->
+<r-c class="fixed-width">
+  <c1-1>
+    <h1 style="text-align:center">Write a Petition</h1>
+
+
+  <p id="demo"></p>
+  
+  <script>
+
+
+function send_func(v) {
+
+if (v == -1) return;
+
+const emails = [];
+emails[0]= "lslslsl@gmail.com";
+emails[1]= "lsllslsl@gmail.com";
+emails[2]= "ayrat.khalimov@gmail.com";
+
+const texts = [];
+texts[0]= "Hi Mariiiia, meow.";
+texts[1]= "Hi Poliiiiina, chik-chirik.";
+texts[2]= "Hi Ayrat, auuuuu.";
+
+document.getElementById("demo").innerHTML = texts[v];
+
+location.assign("mailto:"+emails[v]+"?subject=test&body="+texts[v]);
+//window.open("mailto:"+emails[v]);
+
+}
+</script>  
+
+<select id="person">
+    <option value="-1" disabled="disabled" selected="selected">Please select a name</option>
+    <option value="0">Mariiiia</option>
+    <option value="1">Poliiiina</option>
+    <option value="2">Ayrat</option>
+</select>
+
+<button type="button" onclick="send_func(getElementById('person').value)">send!</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <p style="text-align:center">
+    <b><em>
+    </em></b>
+    </p>
+  </c1-1>
+</r-c>
+<!-- End layout -->
+
+</body>
+</html>
