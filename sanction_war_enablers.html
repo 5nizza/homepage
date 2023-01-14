@@ -18,8 +18,9 @@
     https://matthewjamestaylor.com/add-css-to-html
     -->
 </head>
-<body>
 
+
+<body>
 
 <!--
 <r-c>
@@ -33,7 +34,7 @@
 <!-- Start layout -->
 <r-c class="fixed-width">
   <c1-1>
-    <h1 style="text-align:center">Write a Petition</h1>
+    <h1 style="text-align:center">Send a Petition</h1>
 
 
   <p id="demo"></p>
@@ -122,8 +123,13 @@ location.assign("mailto:"+emails[v]+"?subject="+subjects[v]+"&body="+bodies[v]);
 }
 </script>  
 
+<p>
+Select a deputy, add a personalized message, and send a petition.<br/>
+</p>
+
+<p>
 <select id="person">
-    <option value="-1" disabled="disabled" selected="selected">Please select a name</option>
+    <option value="-1" disabled="disabled" selected="selected">Please select</option>
     <option value="0">ANNEMANS Gerolf,  Vlaams Belang </option>
     <option value="1">ARENA Maria,  Parti Socialiste </option>
     <option value="2">ARIMONT Pascal,  Christlich Soziale Partei </option>
@@ -149,6 +155,7 @@ location.assign("mailto:"+emails[v]+"?subject="+subjects[v]+"&body="+bodies[v]);
 </select>
 
 <button type="button" onclick="send_func(getElementById('person').value)">send!</button>
+</p>
 
 
 
@@ -164,18 +171,6 @@ location.assign("mailto:"+emails[v]+"?subject="+subjects[v]+"&body="+bodies[v]);
 
 
 
-
-
-
-
-
-
-
-
-    <p style="text-align:center">
-    <b><em>
-    </em></b>
-    </p>
   </c1-1>
 </r-c>
 <!-- End layout -->
