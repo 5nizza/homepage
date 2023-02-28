@@ -28,7 +28,7 @@ title: Publications
   [pdf](https://arxiv.org/pdf/1809.05017.pdf)
   &nbsp;&nbsp;[slides](slides/bounded_synthesis_of_register_transducers.pdf)
   &nbsp;&nbsp;[bibtex](bibtex/bounded_synthesis_of_register_transducers.bib)
-  &nbsp;&nbsp;[poem abstract by ChatGPT](bibtex/bounded_synthesis_of_register_transducers_chat_GPT_abstract)
+  &nbsp;&nbsp;[poem_abstract](bibtex/bounded_synthesis_of_register_transducers_chat_GPT_abstract.html)
 
 
 - __Reactive synthesis: branching logic & parameter*i*zed systems__\\
