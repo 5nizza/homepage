@@ -1,0 +1,14 @@
+Reactive synthesis seeks to create systems from their behaviors,
+But the quest focuses on Booleans, neglecting the world's varied flavors.
+Bit-vectors and integers, oh my!
+Bit-blasting makes them unreadable, forcing us to sigh.
+Register transducers, a step closer to the goal,
+Store data in registers, outputting what they stole.
+But prior research claimed undecidability,
+Due to the unbounded queue's insatiability.
+Our work proves that by limiting the number of registers in play,
+The problem becomes solvable without further delay.
+And using quantified temporal logic to specify,
+Automata are replaced, their usefulness we can now deny.
+
+author: ChatGPT
