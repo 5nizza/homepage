@@ -42,6 +42,13 @@
             flex-direction: column; /* Set the direction to column for the two sections */
         }
 
+        @media (max-width: 768px) {
+            .text-column {
+                width: 100%;
+                min-width: 0; /* Reset the minimum width for smaller screens */
+            }
+        }
+
         .centered-text {
             margin-bottom: 20px;
         }
