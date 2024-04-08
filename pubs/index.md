@@ -4,6 +4,12 @@ title: Publications
 
 # Publications
 
+- __Fully Generalized Reactivity(1) Synthesis__\\
+  TACAS'24, with R.Ehlers\\
+  [pdf](https://arxiv.org/abs/2402.02979)
+  &nbsp;&nbsp;[slides](slides/fully_generalized_reactivity_one.pdf)
+  &nbsp;&nbsp;[bibtex](bibtex/tacas24.bib)
+
 
 - __A Generic Solution to Register-Bounded Synthesis with Application to Discrete Orders__\\
   ICALP'22, with L.Exibard and E.Filiot\\
