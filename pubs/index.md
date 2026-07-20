@@ -4,12 +4,17 @@ title: Publications
 
 # Publications
 
+- __A Naturally-Colored Translation from LTL to Parity and COCOA__\\
+  TACAS'24, with R.Ehlers\\
+  [pdf(full version)](https://arxiv.org/abs/2410.01021)
+  &nbsp;&nbsp;[slides](slides/naturally_colored_translation_to_parity.pdf)
+  &nbsp;&nbsp;[bibtex](bibtex/nat_colored_translation.bib)
+
 - __Fully Generalized Reactivity(1) Synthesis__\\
   TACAS'24, with R.Ehlers\\
   [pdf](https://arxiv.org/abs/2402.02979)
   &nbsp;&nbsp;[slides](slides/fully_generalized_reactivity_one.pdf)
   &nbsp;&nbsp;[bibtex](bibtex/tacas24.bib)
-
 
 - __A Generic Solution to Register-Bounded Synthesis with Application to Discrete Orders__\\
   ICALP'22, with L.Exibard and E.Filiot\\
