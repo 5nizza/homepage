@@ -5,7 +5,7 @@ title: Publications
 # Publications
 
 - __A Naturally-Colored Translation from LTL to Parity and COCOA__\\
-  TACAS'24, with R.Ehlers\\
+  LICS'26, with R.Ehlers\\
   [pdf(full version)](https://arxiv.org/abs/2410.01021)
   &nbsp;&nbsp;[slides](slides/naturally_colored_translation_to_parity.pdf)
   &nbsp;&nbsp;[bibtex](bibtex/nat_colored_translation.bib)
